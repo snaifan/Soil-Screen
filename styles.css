@@ -936,6 +936,7 @@ footer {
     .recent-posts-section,
     .newsletter-callout { padding: 2rem 1.5rem; }
     .about-me {margin-top: 5rem; padding: 0 3rem;}
+    .blog-post {padding: 2rem;}
 }
 
 /* Scroll reveal utilities */
